@@ -1,0 +1,4 @@
+interface:
+  display_name: "套色印刷海报"
+  short_description: "以少量高反差色版、硬轮廓和受控颗粒制作海报，支持文字独立排版与局部改稿。"
+  default_prompt: "请用 $produce-screenprint-poster，根据我提供的主题和原文制作套色印刷海报，并检查手机缩略预览。"
